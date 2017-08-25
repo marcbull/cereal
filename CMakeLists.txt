@@ -63,4 +63,6 @@ add_subdirectory(unittests)
 
 add_subdirectory(sandbox)
 
+add_subdirectory(multiplatform)
+
 add_subdirectory(doc)
